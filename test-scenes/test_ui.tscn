@@ -1,0 +1,16 @@
+[gd_scene load_steps=4 format=3 uid="uid://lqc6atpgwid2"]
+
+[ext_resource type="PackedScene" uid="uid://bk16buxnjys61" path="res://player/player.tscn" id="1_o2vni"]
+[ext_resource type="PackedScene" uid="uid://s3nc4na5f7ij" path="res://ui/game_ui.tscn" id="2_37dkq"]
+[ext_resource type="PackedScene" uid="uid://b014je7mq7nre" path="res://systems/mod_spawing.tscn" id="3_7wd8g"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Player" parent="." instance=ExtResource("1_o2vni")]
+position = Vector2(549, 364)
+
+[node name="GameUI" parent="." instance=ExtResource("2_37dkq")]
+
+[node name="ModSpawing" parent="." instance=ExtResource("3_7wd8g")]
+position = Vector2(400, 376)
+creatures = Array[PackedScene]([])
