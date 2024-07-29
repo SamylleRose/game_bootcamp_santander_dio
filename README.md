@@ -9,7 +9,7 @@
 
 Você pode jogar **The Knight** diretamente no seu navegador clicando no link abaixo:
 
-[**Jogar The Knight**](https://samylle-rose.itch.io/the-knight))
+[**Jogar The Knight**](https://samylle-rose.itch.io/the-knight)
 
 ## Tecnologias Utilizadas
 
