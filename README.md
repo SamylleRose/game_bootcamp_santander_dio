@@ -1,6 +1,5 @@
 # The Knight
 
-[![Game Cover](link-to-your-game-cover-image)](link-to-your-game)
 
 ## Sobre o Jogo
 
@@ -10,7 +9,7 @@
 
 Você pode jogar **The Knight** diretamente no seu navegador clicando no link abaixo:
 
-[**Jogar The Knight**]([link-to-your-game](https://samylle-rose.itch.io/the-knight))
+[**Jogar The Knight**]([link-to-your-game](https://samylle-rose.itch.io/the-knight)
 
 ## Tecnologias Utilizadas
 
